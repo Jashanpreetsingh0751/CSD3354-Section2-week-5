@@ -10,6 +10,28 @@ namespace CSD3354_Section2_week_5
     {
         static void Main(string[] args)
         {
-        }
+            {
+                MethodA();
+            }
+
+            static void MethodA()
+
+            {
+                while (Peanut())
+                {
+                    Console.WriteLine("i is {0}", i)
+                            if (i > 10)
+                    {
+                        return; ;
+                    }
+
+                }
+
+                static bool Peanut()
+
+                {
+                    i++;
+                    return true;
+                }
     }
 }
